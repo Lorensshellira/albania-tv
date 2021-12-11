@@ -1,142 +1,265 @@
 #EXTM3U
-#EXTINF:-1,=======  SHQIP TV =======
-group,Channels
-TopChannelHD.al,Top Channel HD,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
-ext,RTSH3 HD,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/120.ts
-ext,RTSH2 HD,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/119.ts
-ext,RTSH1 HD,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/118.ts
-ext,RTSH Sport,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/124.ts
-ext,RTSH Shqip,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/123.ts
-ext,RTSH Plus,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/121.ts
-ext,RTSH Muzike,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/128.ts
-ext,RTSH Kuvend,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/127.ts
-ext,RTSH Korca,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/125.ts
-ext,RTSH Gjirokastra,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/126.ts
-ext,RTSH Film,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/122.ts
-ext,RTSH Femije,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/129.ts
-ext,RTSH 24,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/117.ts
-RTK.al,RTK,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/135.ts
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Channels",Top Channel HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH3 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/120.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH2 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/119.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH1 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/118.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH Sport
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/124.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH Shqip
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/123.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH Plus
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/121.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH Muzike
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/128.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH Kuvend
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/127.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH Korca
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/125.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH Gjirokastra
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/126.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH Film
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/122.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH Femije
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/129.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH 24
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/117.ts
+#EXTINF:0 tvg-id="RTK.al" group-title="Channels",RTK
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/135.ts
 
-group,Albania
-RTV21HD.al,AL: RTV 21 FHD,http://jessicatv.site:8080/15247/6bc4e63e/279110
-21Popullore.al,RTV 21 Popullore,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/58.ts
-ext,RTV 21 Junior,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/55.ts
-KTV.al,KTV ,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/136.ts
-KlanKosova.al,Klan Kosova,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/110.ts
-AlsatM.al,Alsat-M,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/116.ts
-VizionPlus.al,Vizion Plus HD,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/111.ts
-OraNews.al,ORA News,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/113.ts
-ext,Klan Plus,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/107.ts
-ext,Klan Music,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/108.ts
-ext,Klan Macedonia,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/109.ts
-KlanTVHD.al,Klan HD,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/106.ts
-TopNews.al,Top News,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/185.ts
-TRINGFAMILY.al,Tring Family,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/176.ts
-ext,Euronews Albania,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/175.ts
-ext,MTV Kosova,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/168.ts
-ext,Turbo Channel,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/169.ts
-ext,Klan News,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/167.ts
-PeaceTV.al,PEACE TV,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/166.ts
-ext,Report TV,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/165.ts
-ext,Neser TV,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/164.ts
-ext,TV Johaniter,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/162.ts
-Tgcom24.it,TGCOM24,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/146.ts
-ext,RTSH Shkolla,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/161.ts
-ext,Ora HD,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/139.ts
-News24.al,News 24,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/159.ts
-La7.it,La 7,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/147.ts
-ext,RTSH 1 TRANS,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/174.ts
-FashionTV.al,Fashion TV,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/150.ts
-ext,Drita TV,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/163.ts
-ext,D Drama,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/157.ts
-ABCNews.al,Abc News,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/160.ts
-ext,A2 News,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/141.ts
-ext,7 TV ,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/137.ts
-BBF.al,BBF,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/112.ts
-ext,Zjarr TV,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/83.ts
-TemaTV.al,Tema TV,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/93.ts
-TRTWorld.uk,TRT World,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/25.ts
-TringWorld.al,Tring World,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/66.ts
-TringTring.al,Tring Tring,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/78.ts
-TringSuper.al,Tring Super,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/71.ts
-TRINGSHQIPI.al,Tring Shqip,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/74.ts
-TringPlanet.al,Tring Planet,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/67.ts
-TringLife.al,Tring Life,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/73.ts
-ext,Tring Kids,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/79.ts
-ext,Tring International,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/64.ts
-T-Hist.al,Tring History,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/68.ts
-TringFantazi.al,Tring Fantasy,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/72.ts
-TringComedy.al,Tring Comedy,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/70.ts
-ext,Tring Action,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/69.ts
-ext,Travel Report,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/52.ts
-ext,Syri,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/86.ts
-ext,Tirana 1,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/85.ts
-TipTv.al,Tip TV,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/77.ts
-TeleSport.al,TeleSport,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/54.ts
-Smile.al,Smile,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/96.ts
-ext,Shenja Tv,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/57.ts
-Muse.al,Muse,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/80.ts
-LuxeTV.al,LUXE TV,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/53.ts
-Living.al,Living HD,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/56.ts
-ext,Kukesi TV,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/94.ts
-ext,Koplik TV,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/89.ts
-Kanali7.al,Kanali 7,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/81.ts
-JollyHD.al,Jolly HD,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/75.ts
-FolkPlus.al,Folk Plus,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/87.ts
-FANTV.bg,Fen Tv,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/12.ts
-FaxNews.al,FaX NEWS,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/82.ts
-ext,EuroStar,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/22.ts
-Elrodi.al,Elrodi,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/88.ts
-ClubTV.al,Club TV,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/92.ts
-ClickTV.al,Click TV,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/90.ts
-ext,Apollon TV,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/84.ts
-ext,Adrianet,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/95.ts
-3Plus.al,3 Plus,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/76.ts
-ext,AKS,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/177.ts
-SuperSportNews.al,Tring Sport News,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/65.ts
-TS1HD.al,Tring Sport 1 HD,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/63.ts
-TS2HD.al,Tring Sport 2 HD,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/62.ts
-TS3HD.al,Tring Sport 3 HD,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/61.ts
-TS4HD.al,Tring Sport 4 HD,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/60.ts
-ext,SS1,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts
-ext,SS2,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/179.ts
-ext,SS3,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts
-ext,AS1,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/181.ts
-ext,AS2,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/182.ts
-ext,AS3,http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/183.ts
-ext,AL: EUROSPORT 2 HD,http://jessicatv.site:8080/15247/6bc4e63e/16454
-ext,AL: ART Sport 1 FHD,http://jessicatv.site:8080/15247/6bc4e63e/23143
-ext,AL: ART Sport 2 FHD,http://jessicatv.site:8080/15247/6bc4e63e/23146
-ext,AL: ART Sport 3 HD,http://jessicatv.site:8080/15247/6bc4e63e/40061
-ext,AL: K Sport 1 HD,http://jessicatv.site:8080/15247/6bc4e63e/1863
-ext,AL: K Sport 2 HD,http://jessicatv.site:8080/15247/6bc4e63e/1864
-ext,AL: K Sport 3 HD,http://jessicatv.site:8080/15247/6bc4e63e/1865
-ext,AL: K Sport 4 HD,http://jessicatv.site:8080/15247/6bc4e63e/1866
-ext,AL: Sport Klub 1 FHD,http://jessicatv.site:8080/15247/6bc4e63e/15575
-ext,AL: Sport Klub 2 HD,http://jessicatv.site:8080/15247/6bc4e63e/15572
-ext,AL: Arena Sport 1 HD,http://jessicatv.site:8080/15247/6bc4e63e/193741
-ext,AL: Arena Sport 2 HD,http://jessicatv.site:8080/15247/6bc4e63e/171883
-ext,AL: Arena Sport 4 FHD,http://jessicatv.site:8080/15247/6bc4e63e/193744
-ext,AL: Arena Sport 5 HD,http://jessicatv.site:8080/15247/6bc4e63e/57711
+#EXTINF:0 tvg-id="RTV21HD.al" group-title="Albania",AL: RTV 21 FHD
+http://jessicatv.site:8080/15247/6bc4e63e/279110
+#EXTINF:0 tvg-id="21Popullore.al" group-title="Albania",RTV 21 Popullore
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/58.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",RTV 21 Junior
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/55.ts
+#EXTINF:0 tvg-id="KTV.al" group-title="Albania",KTV 
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/136.ts
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Albania",Klan Kosova
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/110.ts
+#EXTINF:0 tvg-id="AlsatM.al" group-title="Albania",Alsat-M
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/116.ts
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="Albania",Vizion Plus HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/111.ts
+#EXTINF:0 tvg-id="OraNews.al" group-title="Albania",ORA News
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/113.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Klan Plus
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/107.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Klan Music
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/108.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Klan Macedonia
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/109.ts
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Albania",Klan HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/106.ts
+#EXTINF:0 tvg-id="TopNews.al" group-title="Albania",Top News
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/185.ts
+#EXTINF:0 tvg-id="TRINGFAMILY.al" group-title="Albania",Tring Family
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/176.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Euronews Albania
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/175.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",MTV Kosova
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/168.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Turbo Channel
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/169.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Klan News
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/167.ts
+#EXTINF:0 tvg-id="PeaceTV.al" group-title="Albania",PEACE TV
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/166.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Report TV
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/165.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Neser TV
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/164.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",TV Johaniter
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/162.ts
+#EXTINF:0 tvg-id="Tgcom24.it" group-title="Albania",TGCOM24
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/146.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH Shkolla
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/161.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Ora HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/139.ts
+#EXTINF:0 tvg-id="News24.al" group-title="Albania",News 24
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/159.ts
+#EXTINF:0 tvg-id="La7.it" group-title="Albania",La 7
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/147.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH 1 TRANS
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/174.ts
+#EXTINF:0 tvg-id="FashionTV.al" group-title="Albania",Fashion TV
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/150.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Drita TV
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/163.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",D Drama
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/157.ts
+#EXTINF:0 tvg-id="ABCNews.al" group-title="Albania",Abc News
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/160.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",A2 News
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/141.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",7 TV 
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/137.ts
+#EXTINF:0 tvg-id="BBF.al" group-title="Albania",BBF
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/112.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Zjarr TV
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/83.ts
+#EXTINF:0 tvg-id="TemaTV.al" group-title="Albania",Tema TV
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/93.ts
+#EXTINF:0 tvg-id="TRTWorld.uk" group-title="Albania",TRT World
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/25.ts
+#EXTINF:0 tvg-id="TringWorld.al" group-title="Albania",Tring World
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/66.ts
+#EXTINF:0 tvg-id="TringTring.al" group-title="Albania",Tring Tring
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/78.ts
+#EXTINF:0 tvg-id="TringSuper.al" group-title="Albania",Tring Super
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/71.ts
+#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="Albania",Tring Shqip
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/74.ts
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="Albania",Tring Planet
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/67.ts
+#EXTINF:0 tvg-id="TringLife.al" group-title="Albania",Tring Life
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/73.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Tring Kids
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/79.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Tring International
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/64.ts
+#EXTINF:0 tvg-id="T-Hist.al" group-title="Albania",Tring History
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/68.ts
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="Albania",Tring Fantasy
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/72.ts
+#EXTINF:0 tvg-id="TringComedy.al" group-title="Albania",Tring Comedy
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/70.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Tring Action
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/69.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Travel Report
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/52.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Syri
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/86.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Tirana 1
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/85.ts
+#EXTINF:0 tvg-id="TipTv.al" group-title="Albania",Tip TV
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/77.ts
+#EXTINF:0 tvg-id="TeleSport.al" group-title="Albania",TeleSport
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/54.ts
+#EXTINF:0 tvg-id="Smile.al" group-title="Albania",Smile
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/96.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Shenja Tv
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/57.ts
+#EXTINF:0 tvg-id="Muse.al" group-title="Albania",Muse
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/80.ts
+#EXTINF:0 tvg-id="LuxeTV.al" group-title="Albania",LUXE TV
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/53.ts
+#EXTINF:0 tvg-id="Living.al" group-title="Albania",Living HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/56.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Kukesi TV
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/94.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Koplik TV
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/89.ts
+#EXTINF:0 tvg-id="Kanali7.al" group-title="Albania",Kanali 7
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/81.ts
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Albania",Jolly HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/75.ts
+#EXTINF:0 tvg-id="FolkPlus.al" group-title="Albania",Folk Plus
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/87.ts
+#EXTINF:0 tvg-id="FANTV.bg" group-title="Albania",Fen Tv
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/12.ts
+#EXTINF:0 tvg-id="FaxNews.al" group-title="Albania",FaX NEWS
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/82.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",EuroStar
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/22.ts
+#EXTINF:0 tvg-id="Elrodi.al" group-title="Albania",Elrodi
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/88.ts
+#EXTINF:0 tvg-id="ClubTV.al" group-title="Albania",Club TV
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/92.ts
+#EXTINF:0 tvg-id="ClickTV.al" group-title="Albania",Click TV
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/90.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Apollon TV
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/84.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",Adrianet
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/95.ts
+#EXTINF:0 tvg-id="3Plus.al" group-title="Albania",3 Plus
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/76.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AKS
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/177.ts
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Albania",Tring Sport News
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/65.ts
+#EXTINF:0 tvg-id="TS1HD.al" group-title="Albania",Tring Sport 1 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/63.ts
+#EXTINF:0 tvg-id="TS2HD.al" group-title="Albania",Tring Sport 2 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/62.ts
+#EXTINF:0 tvg-id="TS3HD.al" group-title="Albania",Tring Sport 3 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/61.ts
+#EXTINF:0 tvg-id="TS4HD.al" group-title="Albania",Tring Sport 4 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/60.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",SS1
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",SS2
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/179.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",SS3
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AS1
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/181.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AS2
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/182.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AS3
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/183.ts
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EUROSPORT 2 HD
+http://jessicatv.site:8080/15247/6bc4e63e/16454
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART Sport 1 FHD
+http://jessicatv.site:8080/15247/6bc4e63e/23143
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART Sport 2 FHD
+http://jessicatv.site:8080/15247/6bc4e63e/23146
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART Sport 3 HD
+http://jessicatv.site:8080/15247/6bc4e63e/40061
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: K Sport 1 HD
+http://jessicatv.site:8080/15247/6bc4e63e/1863
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: K Sport 2 HD
+http://jessicatv.site:8080/15247/6bc4e63e/1864
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: K Sport 3 HD
+http://jessicatv.site:8080/15247/6bc4e63e/1865
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: K Sport 4 HD
+http://jessicatv.site:8080/15247/6bc4e63e/1866
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sport Klub 1 FHD
+http://jessicatv.site:8080/15247/6bc4e63e/15575
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sport Klub 2 HD
+http://jessicatv.site:8080/15247/6bc4e63e/15572
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Arena Sport 1 HD
+http://jessicatv.site:8080/15247/6bc4e63e/193741
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Arena Sport 2 HD
+http://jessicatv.site:8080/15247/6bc4e63e/171883
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Arena Sport 4 FHD
+http://jessicatv.site:8080/15247/6bc4e63e/193744
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Arena Sport 5 HD
+http://jessicatv.site:8080/15247/6bc4e63e/57711
 
-group,Best of Sports
-ext,AL EUROSPORT 1 FHD,http://jessicatv.site:8080/15247/6bc4e63e/273613
-ext,AL EUROSPORT 2 HD,http://jessicatv.site:8080/15247/6bc4e63e/273607
-ext,AL Sport Klub 1 FHD,http://jessicatv.site:8080/15247/6bc4e63e/273495
-ext,AL Sport Klub 2 HD,http://jessicatv.site:8080/15247/6bc4e63e/273490
-ext,HR Sport Klub 1 FHD,http://jessicatv.site:8080/15247/6bc4e63e/279851
-ext,HR Sport Klub 2 FHD,http://jessicatv.site:8080/15247/6bc4e63e/282858
-ext,HR Sport Klub 3 FHD,http://jessicatv.site:8080/15247/6bc4e63e/279853
-ext,BIH Arena Sport 1 HD,http://jessicatv.site:8080/15247/6bc4e63e/282829
-ext,BIH Arena Sport 3 HD,http://jessicatv.site:8080/15247/6bc4e63e/273415
+#EXTINF:0 tvg-id="ext" group-title="Best of Sports",AL EUROSPORT 1 FHD
+http://jessicatv.site:8080/15247/6bc4e63e/273613
+#EXTINF:0 tvg-id="ext" group-title="Best of Sports",AL EUROSPORT 2 HD
+http://jessicatv.site:8080/15247/6bc4e63e/273607
+#EXTINF:0 tvg-id="ext" group-title="Best of Sports",AL Sport Klub 1 FHD
+http://jessicatv.site:8080/15247/6bc4e63e/273495
+#EXTINF:0 tvg-id="ext" group-title="Best of Sports",AL Sport Klub 2 HD
+http://jessicatv.site:8080/15247/6bc4e63e/273490
+#EXTINF:0 tvg-id="ext" group-title="Best of Sports",HR Sport Klub 1 FHD
+http://jessicatv.site:8080/15247/6bc4e63e/279851
+#EXTINF:0 tvg-id="ext" group-title="Best of Sports",HR Sport Klub 2 FHD
+http://jessicatv.site:8080/15247/6bc4e63e/282858
+#EXTINF:0 tvg-id="ext" group-title="Best of Sports",HR Sport Klub 3 FHD
+http://jessicatv.site:8080/15247/6bc4e63e/279853
+#EXTINF:0 tvg-id="ext" group-title="Best of Sports",BIH Arena Sport 1 HD
+http://jessicatv.site:8080/15247/6bc4e63e/282829
+#EXTINF:0 tvg-id="ext" group-title="Best of Sports",BIH Arena Sport 3 HD
+http://jessicatv.site:8080/15247/6bc4e63e/273415
 
-group,Croatia
-ext,HR: Sport Klub 2 FHD,http://jessicatv.site:8080/15247/6bc4e63e/279841
-ext,HR: Sport Klub 3 FHD,http://jessicatv.site:8080/15247/6bc4e63e/279840
-ext,HR: Sport Klub 4 FHD,http://jessicatv.site:8080/15247/6bc4e63e/279839
-ext,HR: Sport Klub 5 HD,http://jessicatv.site:8080/15247/6bc4e63e/26662
+#EXTINF:0 tvg-id="ext" group-title="Croatia",HR: Sport Klub 2 FHD
+http://jessicatv.site:8080/15247/6bc4e63e/279841
+#EXTINF:0 tvg-id="ext" group-title="Croatia",HR: Sport Klub 3 FHD
+http://jessicatv.site:8080/15247/6bc4e63e/279840
+#EXTINF:0 tvg-id="ext" group-title="Croatia",HR: Sport Klub 4 FHD
+http://jessicatv.site:8080/15247/6bc4e63e/279839
+#EXTINF:0 tvg-id="ext" group-title="Croatia",HR: Sport Klub 5 HD
+http://jessicatv.site:8080/15247/6bc4e63e/26662
 
-group,Bosnia
-ext,BIH: Arena Sport 1 HD,http://jessicatv.site:8080/15247/6bc4e63e/282259
-ext,BIH: Arena Sport 3 HD,http://jessicatv.site:8080/15247/6bc4e63e/67719
-
+#EXTINF:0 tvg-id="ext" group-title="Bosnia",BIH: Arena Sport 1 HD
+http://jessicatv.site:8080/15247/6bc4e63e/282259
+#EXTINF:0 tvg-id="ext" group-title="Bosnia",BIH: Arena Sport 3 HD
+http://jessicatv.site:8080/15247/6bc4e63e/67719
