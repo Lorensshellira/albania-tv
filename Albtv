@@ -1,31 +1,48 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="",AlbUK TV
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/Q1UOlkA.png" group-title="Music",EUROAL
-http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/AJ472ot.png" group-title="",Koha TV
-rtmp://live.tvkoha.tv:1935/live/koha/livestream
-#EXTINF:-1 tvg-id="News 24 AL" tvg-name="News 24 AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="News",News 24
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/l8Z9BRE.png" group-title="",Peace TV
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 tvg-id="RTSH 1 HD AL" tvg-name="RTSH 1 HD AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/j6fL4vc.png" group-title="",RTSH 1 HD
-http://79.106.48.2/live/rtsh_1ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSH 1 HD AL" tvg-name="RTSH 1 HD AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/j6fL4vc.png" group-title="",RTSH 1 HD
-http://79.106.48.2/live/rtsh_1ott_p3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/zlYvCID.png" group-title="News",RTSH 24
-http://79.106.48.2/live/rtsh_24_ott_p3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dvqV5C1.png" group-title="",RTSH Film
-https://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/y0cZay7.png" group-title="",RTSH Korca
-https://edge01eu.ekranet.com/tvkorca/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/UHG6Rve.png" group-title="",RTSH Shqip
-http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://127.0.0.1/" group-title="Sport",RTSH Sport
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/WHlCDVH.png" group-title="",TV Boin
-http://tva.fastbroad.com/i/tvboin_1@380599/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="",TV7
-http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/UValLp1.png" group-title="",Zjarr TV
-http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
+#EXTINF:-1,=======  SHQIP TV =======
+#EXTINF:0 tvg-name="RTK.al" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="RTK.al" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/RTK_logo.png" group-title="TEST",RTK1
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:0 tvg-name="RTK2al" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="RTK.al" aspect-ratio="16:9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/RTK_logo.png" group-title="TEST",RTK2
+http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+
+#EXTINF:0 tvg-name="KlanKosova.al" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="KlanKosova.al" tvg-logo="https://www.ipko.com/epg/logo/KLAN_KOSOVA.png" group-title="TEST",KLAN KS
+http://84.22.52.2:443/klanks/mono.m3u8
+#EXTINF:0 tvg-name="SuperSonicTV.al" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="SuperSonicTV.al" aspect-ratio="16:9" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/03/supersonic_tv_al.png" group-title="TEST",SONIC
+http://str103.setplex.net:1935/228//stv_online/playlist.m3u8
+#EXTINF:0 tvg-name="Tetova.mk" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="Tetova.mk" tvg-logo="http://i.imgur.com/X53xldB.png" group-title="TEST",TETOVA
+rtmp://ip.tvtetova.net:5119/live/tvtetova
+#EXTINF:0 tvg-name="tribuna.AL" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="tribuna.AL" tvg-logo="https://lh3.googleusercontent.com/-6IOb5b0L1hQ/VyqskvPAh7I/AAAAAAAAGyg/pGe36O6T6dYh9K9ZxDLZsg3QfgGIgPjLACCo/s204/Tribuna%2BChannel%2Blive%2Bstreaming.png" group-title="TEST",TRIBUNA
+http://84.22.52.2:443/tribuna/mono.m3u8
+
+#EXTINF:-1,ZJARR HD 
+http://81.7.13.162/hls/zjarrtv/index.m3u8
+#EXTINF:-1,ALB UK Music
+http://188.138.17.8:1935/albuk/albmus.stream/index.m3u8
+
+#EXTINF:0 tvg-name="DUKAGJINI" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="DUKAGJINI" tvg-logo="https://www.ipko.com/epg/logo/duka_logo.png" group-title="TEST",DUKAGJINI
+http://stream2.itprishtina.com/dukagjini/index.m3u8
+#EXTINF:-1,TV1 
+http://xtv1channelshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,INALBANIA
+http://80.91.115.211:1935/live/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="ALBMUSIC.AL" tvg-language="Albanian/Kosovo" tvg-country="UK" tvg-id="ALBMUSIC.AL" tvg-logo="https://2.bp.blogspot.com/-NHeuJ5j-oxk/WLA0dWUVOvI/AAAAAAAAAH8/JRkEr0LeywYjYkaZ9yu--5m7T8x_TCphQCLcB/s1600/albmusichd.png" group-title="TEST",ALB MUSIC
+http://188.138.17.8:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:0 tvg-name="ALBMOVIE.AL" tvg-language="Albanian/Kosovo" tvg-country="UK" tvg-id="ALBMOVIE.AL" tvg-logo="https://4.bp.blogspot.com/-04DVcN_2C2c/WLA0deQIzzI/AAAAAAAAAIA/orVZXg-HgtgnAcTt3FJmeL9WJbjnK3pIgCLcB/s1600/albumoviehd.png" group-title="TEST",ALB MOVIE
+http://188.138.17.8:1935/albuk/albukplus.stream/playlist.m3u8
+#EXTINF:-1,CHANNEL ONE
+http://81.7.13.162/hls/channelone/index.m3u8
+#EXTINF:0 tvg-name="RrokumTV.al" tvg-language="Albanian/Kosovo" tvg-country="KS" tvg-id="Rrokum TV" aspect-ratio="16:9" tvg-logo="https://www.ipko.com/epg/logo/rrokum.png" group-title="TEST",Rrokum
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: ABC News" tvg-logo="" group-title="Albania",AL: ABC News
+http://xabcalbaniax.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Stv Folk" tvg-logo="" group-title="Albania",AL: Stv Folk
+http://str103.setplex.net:1935/228/stv_folk/playlist.m3u8?
+#EXTINF:0 tvg-name="OraNews.al" tvg-language="Albanian/Kosovo" tvg-country="AL" tvg-id="OraNews.al" tvg-logo="http://ipko.com/epg/logo/ora-news-izle.png" group-title="TEST",Ora News
+http://109.236.81.91/hls/oranews/index.m3u8
+#EXTINF:0,NJESHI
+http://xtv1channelshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Elbasani" tvg-logo="" group-title="Albania",AL: TV Elbasani
+http://xredinezirix.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: News24" tvg-logo="" group-title="Albania",AL: News24
+http://81.7.11.117/hls/news24/index.m3u8
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-VkFVc0SOWhE/AAAAAAAAAAI/AAAAAAAAAAA/gQMiWQQhBZ8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="TEST",DRITA
