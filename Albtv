@@ -1,265 +1,457 @@
 #EXTM3U
-#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Channels",Top Channel HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH3 HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/120.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH2 HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/119.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH1 HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/118.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH Sport
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/124.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH Shqip
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/123.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH Plus
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/121.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH Muzike
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/128.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH Kuvend
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/127.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH Korca
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/125.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH Gjirokastra
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/126.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH Film
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/122.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH Femije
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/129.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH 24
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/117.ts
-#EXTINF:0 tvg-id="RTK.al" group-title="Channels",RTK
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/135.ts
-
-#EXTINF:0 tvg-id="RTV21HD.al" group-title="Albania",AL: RTV 21 FHD
-http://jessicatv.site:8080/15247/6bc4e63e/279110
-#EXTINF:0 tvg-id="21Popullore.al" group-title="Albania",RTV 21 Popullore
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/58.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTV 21 Junior
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/55.ts
-#EXTINF:0 tvg-id="KTV.al" group-title="Albania",KTV 
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/136.ts
-#EXTINF:0 tvg-id="KlanKosova.al" group-title="Albania",Klan Kosova
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/110.ts
-#EXTINF:0 tvg-id="AlsatM.al" group-title="Albania",Alsat-M
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/116.ts
-#EXTINF:0 tvg-id="VizionPlus.al" group-title="Albania",Vizion Plus HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/111.ts
-#EXTINF:0 tvg-id="OraNews.al" group-title="Albania",ORA News
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/113.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Klan Plus
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/107.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Klan Music
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/108.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Klan Macedonia
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/109.ts
-#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Albania",Klan HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/106.ts
-#EXTINF:0 tvg-id="TopNews.al" group-title="Albania",Top News
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/185.ts
-#EXTINF:0 tvg-id="TRINGFAMILY.al" group-title="Albania",Tring Family
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/176.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Euronews Albania
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/175.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",MTV Kosova
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/168.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Turbo Channel
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/169.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Klan News
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/167.ts
-#EXTINF:0 tvg-id="PeaceTV.al" group-title="Albania",PEACE TV
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/166.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Report TV
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/165.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Neser TV
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/164.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",TV Johaniter
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/162.ts
-#EXTINF:0 tvg-id="Tgcom24.it" group-title="Albania",TGCOM24
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/146.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH Shkolla
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/161.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Ora HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/139.ts
-#EXTINF:0 tvg-id="News24.al" group-title="Albania",News 24
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/159.ts
-#EXTINF:0 tvg-id="La7.it" group-title="Albania",La 7
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/147.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",RTSH 1 TRANS
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/174.ts
-#EXTINF:0 tvg-id="FashionTV.al" group-title="Albania",Fashion TV
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/150.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Drita TV
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/163.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",D Drama
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/157.ts
-#EXTINF:0 tvg-id="ABCNews.al" group-title="Albania",Abc News
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/160.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",A2 News
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/141.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",7 TV 
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/137.ts
-#EXTINF:0 tvg-id="BBF.al" group-title="Albania",BBF
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/112.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Zjarr TV
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/83.ts
-#EXTINF:0 tvg-id="TemaTV.al" group-title="Albania",Tema TV
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/93.ts
-#EXTINF:0 tvg-id="TRTWorld.uk" group-title="Albania",TRT World
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/25.ts
-#EXTINF:0 tvg-id="TringWorld.al" group-title="Albania",Tring World
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/66.ts
-#EXTINF:0 tvg-id="TringTring.al" group-title="Albania",Tring Tring
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/78.ts
-#EXTINF:0 tvg-id="TringSuper.al" group-title="Albania",Tring Super
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/71.ts
-#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="Albania",Tring Shqip
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/74.ts
-#EXTINF:0 tvg-id="TringPlanet.al" group-title="Albania",Tring Planet
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/67.ts
-#EXTINF:0 tvg-id="TringLife.al" group-title="Albania",Tring Life
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/73.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Tring Kids
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/79.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Tring International
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/64.ts
-#EXTINF:0 tvg-id="T-Hist.al" group-title="Albania",Tring History
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/68.ts
-#EXTINF:0 tvg-id="TringFantazi.al" group-title="Albania",Tring Fantasy
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/72.ts
-#EXTINF:0 tvg-id="TringComedy.al" group-title="Albania",Tring Comedy
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/70.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Tring Action
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/69.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Travel Report
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/52.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Syri
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/86.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Tirana 1
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/85.ts
-#EXTINF:0 tvg-id="TipTv.al" group-title="Albania",Tip TV
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/77.ts
-#EXTINF:0 tvg-id="TeleSport.al" group-title="Albania",TeleSport
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/54.ts
-#EXTINF:0 tvg-id="Smile.al" group-title="Albania",Smile
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/96.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Shenja Tv
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/57.ts
-#EXTINF:0 tvg-id="Muse.al" group-title="Albania",Muse
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/80.ts
-#EXTINF:0 tvg-id="LuxeTV.al" group-title="Albania",LUXE TV
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/53.ts
-#EXTINF:0 tvg-id="Living.al" group-title="Albania",Living HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/56.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Kukesi TV
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/94.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Koplik TV
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/89.ts
-#EXTINF:0 tvg-id="Kanali7.al" group-title="Albania",Kanali 7
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/81.ts
-#EXTINF:0 tvg-id="JollyHD.al" group-title="Albania",Jolly HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/75.ts
-#EXTINF:0 tvg-id="FolkPlus.al" group-title="Albania",Folk Plus
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/87.ts
-#EXTINF:0 tvg-id="FANTV.bg" group-title="Albania",Fen Tv
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/12.ts
-#EXTINF:0 tvg-id="FaxNews.al" group-title="Albania",FaX NEWS
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/82.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",EuroStar
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/22.ts
-#EXTINF:0 tvg-id="Elrodi.al" group-title="Albania",Elrodi
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/88.ts
-#EXTINF:0 tvg-id="ClubTV.al" group-title="Albania",Club TV
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/92.ts
-#EXTINF:0 tvg-id="ClickTV.al" group-title="Albania",Click TV
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/90.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Apollon TV
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/84.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",Adrianet
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/95.ts
-#EXTINF:0 tvg-id="3Plus.al" group-title="Albania",3 Plus
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/76.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AKS
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/177.ts
-#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Albania",Tring Sport News
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/65.ts
-#EXTINF:0 tvg-id="TS1HD.al" group-title="Albania",Tring Sport 1 HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/63.ts
-#EXTINF:0 tvg-id="TS2HD.al" group-title="Albania",Tring Sport 2 HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/62.ts
-#EXTINF:0 tvg-id="TS3HD.al" group-title="Albania",Tring Sport 3 HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/61.ts
-#EXTINF:0 tvg-id="TS4HD.al" group-title="Albania",Tring Sport 4 HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/60.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",SS1
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",SS2
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/179.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",SS3
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AS1
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/181.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AS2
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/182.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AS3
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/183.ts
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EUROSPORT 2 HD
-http://jessicatv.site:8080/15247/6bc4e63e/16454
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART Sport 1 FHD
-http://jessicatv.site:8080/15247/6bc4e63e/23143
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART Sport 2 FHD
-http://jessicatv.site:8080/15247/6bc4e63e/23146
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART Sport 3 HD
-http://jessicatv.site:8080/15247/6bc4e63e/40061
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: K Sport 1 HD
-http://jessicatv.site:8080/15247/6bc4e63e/1863
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: K Sport 2 HD
-http://jessicatv.site:8080/15247/6bc4e63e/1864
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: K Sport 3 HD
-http://jessicatv.site:8080/15247/6bc4e63e/1865
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: K Sport 4 HD
-http://jessicatv.site:8080/15247/6bc4e63e/1866
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sport Klub 1 FHD
-http://jessicatv.site:8080/15247/6bc4e63e/15575
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sport Klub 2 HD
-http://jessicatv.site:8080/15247/6bc4e63e/15572
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Arena Sport 1 HD
-http://jessicatv.site:8080/15247/6bc4e63e/193741
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Arena Sport 2 HD
-http://jessicatv.site:8080/15247/6bc4e63e/171883
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Arena Sport 4 FHD
-http://jessicatv.site:8080/15247/6bc4e63e/193744
-#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Arena Sport 5 HD
-http://jessicatv.site:8080/15247/6bc4e63e/57711
-
-#EXTINF:0 tvg-id="ext" group-title="Best of Sports",AL EUROSPORT 1 FHD
-http://jessicatv.site:8080/15247/6bc4e63e/273613
-#EXTINF:0 tvg-id="ext" group-title="Best of Sports",AL EUROSPORT 2 HD
-http://jessicatv.site:8080/15247/6bc4e63e/273607
-#EXTINF:0 tvg-id="ext" group-title="Best of Sports",AL Sport Klub 1 FHD
-http://jessicatv.site:8080/15247/6bc4e63e/273495
-#EXTINF:0 tvg-id="ext" group-title="Best of Sports",AL Sport Klub 2 HD
-http://jessicatv.site:8080/15247/6bc4e63e/273490
-#EXTINF:0 tvg-id="ext" group-title="Best of Sports",HR Sport Klub 1 FHD
-http://jessicatv.site:8080/15247/6bc4e63e/279851
-#EXTINF:0 tvg-id="ext" group-title="Best of Sports",HR Sport Klub 2 FHD
-http://jessicatv.site:8080/15247/6bc4e63e/282858
-#EXTINF:0 tvg-id="ext" group-title="Best of Sports",HR Sport Klub 3 FHD
-http://jessicatv.site:8080/15247/6bc4e63e/279853
-#EXTINF:0 tvg-id="ext" group-title="Best of Sports",BIH Arena Sport 1 HD
-http://jessicatv.site:8080/15247/6bc4e63e/282829
-#EXTINF:0 tvg-id="ext" group-title="Best of Sports",BIH Arena Sport 3 HD
-http://jessicatv.site:8080/15247/6bc4e63e/273415
-
-#EXTINF:0 tvg-id="ext" group-title="Croatia",HR: Sport Klub 2 FHD
-http://jessicatv.site:8080/15247/6bc4e63e/279841
-#EXTINF:0 tvg-id="ext" group-title="Croatia",HR: Sport Klub 3 FHD
-http://jessicatv.site:8080/15247/6bc4e63e/279840
-#EXTINF:0 tvg-id="ext" group-title="Croatia",HR: Sport Klub 4 FHD
-http://jessicatv.site:8080/15247/6bc4e63e/279839
-#EXTINF:0 tvg-id="ext" group-title="Croatia",HR: Sport Klub 5 HD
-http://jessicatv.site:8080/15247/6bc4e63e/26662
-
-#EXTINF:0 tvg-id="ext" group-title="Bosnia",BIH: Arena Sport 1 HD
-http://jessicatv.site:8080/15247/6bc4e63e/282259
-#EXTINF:0 tvg-id="ext" group-title="Bosnia",BIH: Arena Sport 3 HD
-http://jessicatv.site:8080/15247/6bc4e63e/67719
+#EXTINF:0 tvg-id="News24.al" group-title="Channels",NEWS 24
+http://62.210.152.92:25461/kanale2/Ass/45
+#EXTINF:0 tvg-id="ext" group-title="Channels",REPORT HD
+http://62.210.152.92:25461/kanale2/Ass/46
+#EXTINF:0 tvg-id="RTK.al" group-title="Channels",RTK 1
+http://62.210.152.92:25461/kanale2/Ass/48
+#EXTINF:0 tvg-id="PeaceTV.al" group-title="Channels",Peace TV
+http://62.210.152.92:25461/kanale2/Ass/52
+#EXTINF:0 tvg-id="opoja.tv" group-title="Channels",Opoja
+http://62.210.152.92:25461/kanale2/Ass/68
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Alb Action
+http://stariptv.org:8080/wael2021/123456/59069
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Channel 1 Shkoder
+http://stariptv.org:8080/wael2021/123456/59080
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: City TV
+http://stariptv.org:8080/wael2021/123456/59081
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Club TV
+http://stariptv.org:8080/wael2021/123456/59083
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dasma TV
+http://stariptv.org:8080/wael2021/123456/59084
+#EXTINF:0 tvg-id="DigiGold.al" group-title="Channels",AL: DIGI GOLD
+http://stariptv.org:8080/wael2021/123456/59233
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Digi Gold 1
+http://stariptv.org:8080/wael2021/123456/59086
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Digi Gold 4
+http://stariptv.org:8080/wael2021/123456/59103
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dukagjini TV
+http://stariptv.org:8080/wael2021/123456/59089
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="Channels",AL: FILM DRAME
+http://stariptv.org:8080/wael2021/123456/59231
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Film Hits HD
+http://stariptv.org:8080/wael2021/123456/59181
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Film Komedi HD
+http://stariptv.org:8080/wael2021/123456/59180
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="Channels",AL: FILM THRILLER
+http://stariptv.org:8080/wael2021/123456/59228
+#EXTINF:0 tvg-id="FirstChannel.al" group-title="Channels",AL: First TV
+http://stariptv.org:8080/wael2021/123456/59178
+#EXTINF:0 tvg-id="Fox.al" group-title="Channels",AL: FOX
+http://stariptv.org:8080/wael2021/123456/59094
+#EXTINF:0 tvg-id="FoxLife.al" group-title="Channels",AL: FOX Life
+http://stariptv.org:8080/wael2021/123456/59095
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Channels",AL: TRING JOLLY HD
+http://stariptv.org:8080/wael2021/123456/59225
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: JUG TV
+http://stariptv.org:8080/wael2021/123456/59177
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kino Action
+http://stariptv.org:8080/wael2021/123456/59175
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kino Premiere 1 HD
+http://stariptv.org:8080/wael2021/123456/59171
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kino Premiere 2 HD
+http://stariptv.org:8080/wael2021/123456/59170
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kino Scifi HD
+http://stariptv.org:8080/wael2021/123456/59167
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: MFM Music
+http://stariptv.org:8080/wael2021/123456/59031
+#EXTINF:0 tvg-id="PeaceTV.al" group-title="Channels",AL: Peace Tv
+http://stariptv.org:8080/wael2021/123456/59130
+#EXTINF:0 tvg-id="RTK.al" group-title="Channels",AL: RTK 1
+http://stariptv.org:8080/wael2021/123456/59035
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTK 3
+http://stariptv.org:8080/wael2021/123456/59037
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTK 4
+http://stariptv.org:8080/wael2021/123456/59038
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH 1 HD
+http://stariptv.org:8080/wael2021/123456/59039
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Shqip TV Islam
+http://stariptv.org:8080/wael2021/123456/59113
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="Channels",AL: Sky Komedi
+http://stariptv.org:8080/wael2021/123456/59135
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Sky Max
+http://stariptv.org:8080/wael2021/123456/59044
+#EXTINF:0 tvg-id="STVFolk.al" group-title="Channels",AL: STV Folk
+http://stariptv.org:8080/wael2021/123456/59049
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Channels",AL: Super Sport 1 HD
+http://stariptv.org:8080/wael2021/123456/59134
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 3 HD
+http://stariptv.org:8080/wael2021/123456/59132
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 4
+http://stariptv.org:8080/wael2021/123456/59214
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 6
+http://stariptv.org:8080/wael2021/123456/59212
+#EXTINF:0 tvg-id="T.al" group-title="Channels",AL: T HD
+http://stariptv.org:8080/wael2021/123456/59051
+#EXTINF:0 tvg-id="TopNews.al" group-title="Channels",AL: Top News
+http://stariptv.org:8080/wael2021/123456/59023
+#EXTINF:0 tvg-id="TravelChannel.al" group-title="Channels",AL: Travel Channel
+http://stariptv.org:8080/wael2021/123456/59054
+#EXTINF:0 tvg-id="T-Hist.al" group-title="Channels",AL: TRING HISTORI
+http://stariptv.org:8080/wael2021/123456/59205
+#EXTINF:0 tvg-id="TS4HD.al" group-title="Channels",AL: TRING SPORT 4 HD
+http://stariptv.org:8080/wael2021/123456/59198
+#EXTINF:0 tvg-id="TringSuper.al" group-title="Channels",AL: TRING SUPER
+http://stariptv.org:8080/wael2021/123456/59197
+#EXTINF:0 tvg-id="TringTring.al" group-title="Channels",AL: TRING TRING
+http://stariptv.org:8080/wael2021/123456/59196
+#EXTINF:0 tvg-id="TringWorld.al" group-title="Channels",AL: Tring World
+http://stariptv.org:8080/wael2021/123456/59195
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TURBO CHANNEL
+http://stariptv.org:8080/wael2021/123456/59058
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV 2 Gostivar
+http://stariptv.org:8080/wael2021/123456/59059
+#EXTINF:0 tvg-id="TVDukagjini.al" group-title="Channels",AL: TV Dukagjini
+http://stariptv.org:8080/wael2021/123456/59024
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Festa
+http://stariptv.org:8080/wael2021/123456/59104
+#EXTINF:0 tvg-id="KlanTV.al" group-title="Channels",AL: TV KLAN HD
+http://stariptv.org:8080/wael2021/123456/59025
+#EXTINF:0 tvg-id="opoja.tv" group-title="Channels",AL: TV Opoja
+http://stariptv.org:8080/wael2021/123456/59061
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Shenja
+http://stariptv.org:8080/wael2021/123456/59127
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Vision Plus TV
+http://stariptv.org:8080/wael2021/123456/59129
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: WesterN
+http://stariptv.org:8080/wael2021/123456/59194
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL : Action
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3418
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL : SuperSport 3
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3406
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: SuperSport 4
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3405
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL : SuperSport 5
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3404
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL : Thriller
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3412
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL : TRING HISTORI
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2125
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL : TRING SUPER
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2123
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL : Tring World
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3394
+#EXTINF:0 tvg-id="TopNews.al" group-title="Channels",AL:  Top News
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3471
+#EXTINF:0 tvg-id="24Kitchen.al" group-title="Channels",AL: 24 Kitchen
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19346
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: A1 SHQIPTARE
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3462
+#EXTINF:0 tvg-id="ABCNews.al" group-title="Channels",AL: ABC News
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3455
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: AL K SPORT1
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/7369
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: AL K SPORT2
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/7370
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: AL K SPORT3
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/7371
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: AL K SPORT4
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/7372
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Alb Action
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19457
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ALB ANIME
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3427
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Alb Folk HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19501
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Alb Humor 2
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19455
+#EXTINF:0 tvg-id="musicAL.al" group-title="Channels",AL: Alb Music HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/16501
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Alb Thriller
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19453
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ALB UK
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3429
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ALB UK HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3428
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: AMOL TV
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19444
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ARTA NEWS
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19442
+#EXTINF:0 tvg-id="BabyTV.al" group-title="Channels",AL: Baby Tv
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19465
+#EXTINF:0 tvg-id="BangBang.al" group-title="Channels",AL: Bang Bang
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19502
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Channel ONE
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19468
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: City TV
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19440
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Club TV
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19439
+#EXTINF:0 tvg-id="CufoTV.al" group-title="Channels",AL: Cufo
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3425
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dasma TV
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19498
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Diaspora
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19438
+#EXTINF:0 tvg-id="DigiGold.al" group-title="Channels",AL: DIGI GOLD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2145
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Digi Gold 1
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19448
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Digi Gold 2
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/17542
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Digi Gold 4
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/17544
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dukagjini TV
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19510
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Elrodi TV
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19503
+#EXTINF:0 tvg-id="ETV.al" group-title="Channels",AL: ERA TV
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/16019
+#EXTINF:0 tvg-id="EXPHistori.al" group-title="Channels",AL: EXP HISTORI
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2144
+#EXTINF:0 tvg-id="EXPHistori.al" group-title="Channels",AL: Explorer Histori
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3434
+#EXTINF:0 tvg-id="EXPNatyra.al" group-title="Channels",AL: Explorer Natyra
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3433
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Explorer Shkenc
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3432
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Film Aksion HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3366
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Film Autor HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3365
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="Channels",AL: FILM DRAME
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2142
+#EXTINF:0 tvg-id="FilmDyHD.al" group-title="Channels",AL: FILM DY
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2141
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Film Hits HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3361
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Film Komedi HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3364
+#EXTINF:0 tvg-id="FilmNjeHD.al" group-title="Channels",AL: Film Nje HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3360
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Film Stinet
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19506
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="Channels",AL: FILM THRILLER
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2139
+#EXTINF:0 tvg-id="FirstChannel.al" group-title="Channels",AL: First TV
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3469
+#EXTINF:0 tvg-id="FolkPlus.al" group-title="Channels",AL: Folk
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/16499
+#EXTINF:0 tvg-id="FolkPlus.al" group-title="Channels",AL: Folk Plus
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19484
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Folklorit
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19496
+#EXTINF:0 tvg-id="Fox.al" group-title="Channels",AL: FOX
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19480
+#EXTINF:0 tvg-id="FoxLife.al" group-title="Channels",AL: FOX Life
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19479
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: GlobiTV
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19469
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Humor 2
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3413
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Channels",AL: JOLLY HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2138
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: JUG TV
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3459
+#EXTINF:0 tvg-id="JuniorTV.al" group-title="Channels",AL: Junior TV
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3468
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kanali 7 News
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19347
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kino Action
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3443
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kino Premiere 1 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3444
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kino Premiere 2 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3445
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kino Premiere 3 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3446
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Kino Scifi HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3448
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Channels",AL: KLAN HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3421
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Channels",AL: KLAN Kosova HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3420
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Channels",AL: Klan Kosova Toksor
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3419
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: KLAN Plus
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3422
+#EXTINF:0 tvg-id="KTV.al" group-title="Channels",AL: KTV HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2136
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: MFM Music
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19343
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: MRTV 2
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/16017
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: MTV Kosova
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19458
+#EXTINF:0 tvg-id="Muse.al" group-title="Channels",AL: Muse
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19466
+#EXTINF:0 tvg-id="MyMusic.al" group-title="Channels",AL: My Music
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19342
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Nat Geographic
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3407
+#EXTINF:0 tvg-id="NationalGeographic.al" group-title="Channels",AL: National Geographic
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2135
+#EXTINF:0 tvg-id="NationalGeographic.al" group-title="Channels",AL: National Geographic
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3430
+#EXTINF:0 tvg-id="News24.al" group-title="Channels",AL: News 24
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2134
+#EXTINF:0 tvg-id="News24.al" group-title="Channels",AL: News 24
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3456
+#EXTINF:0 tvg-id="ONTV.al" group-title="Channels",AL: ON TV
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3426
+#EXTINF:0 tvg-id="OraNews.al" group-title="Channels",AL: Ora News
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2133
+#EXTINF:0 tvg-id="OraNews.al" group-title="Channels",AL: Ora News
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3457
+#EXTINF:0 tvg-id="PeaceTV.al" group-title="Channels",AL: Peace Tv
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/8804
+#EXTINF:0 tvg-id="PlusHD.al" group-title="Channels",AL: PLUS HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3431
+#EXTINF:0 tvg-id="PlusHD.al" group-title="Channels",AL: PLUS HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3441
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Report TV
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3463
+#EXTINF:0 tvg-id="RrokumTV.al" group-title="Channels",AL: Rrokum TV
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3472
+#EXTINF:0 tvg-id="RTK.al" group-title="Channels",AL: RTK
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2132
+#EXTINF:0 tvg-id="RTK.al" group-title="Channels",AL: RTK 1
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19512
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTK 2
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/17810
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTK 3
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/17811
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTK 4
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/17814
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTK1 Sat
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/28978
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTK2
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/28979
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTK3
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/28981
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH 1 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19511
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH Sport HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3453
+#EXTINF:0 tvg-id="RTV21.al" group-title="Channels",AL: RTV 21
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2131
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTV 21 Junior
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3466
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTV 21 Maqedonia
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3465
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTV 21 Mix HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3464
+#EXTINF:0 tvg-id="21Popullore.al" group-title="Channels",AL: RTV 21 Popullore
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3467
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Shqip TV Islam
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/16176
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="Channels",AL: Sky Aksion
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3435
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Sky Comedy
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3437
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Sky Max
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19463
+#EXTINF:0 tvg-id="EXPShkence.al" group-title="Channels",AL: Sky Shkence
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3440
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Smile HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19340
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Sofia HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19464
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Star  Shkodra
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19471
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Star  TV
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19472
+#EXTINF:0 tvg-id="STVFolk.al" group-title="Channels",AL: STV Folk
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19338
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 1
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2130
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Channels",AL: Super Sport 1 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/337
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 2
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2129
+#EXTINF:0 tvg-id="ext" group-title="Channels",Al: Super Sport 2 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/338
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super sport 3
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/407
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport 3 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/339
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport Kosovo 1 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2128
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Super Sport Kosovo 2 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2127
+#EXTINF:0 tvg-id="SuperSonicTV.al" group-title="Channels",AL: Supersonic TV
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/28971
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Syri Blue HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19507
+#EXTINF:0 tvg-id="T.al" group-title="Channels",AL: T HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19508
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Tele Sport
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3454
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Channels",AL: Top Channel HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3402
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Top Estrada TV HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19456
+#EXTINF:0 tvg-id="TopNews.al" group-title="Channels",AL: Top News
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/28982
+#EXTINF:0 tvg-id="TravelChannel.al" group-title="Channels",AL: Travel Channel
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19497
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Tring 3
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3458
+#EXTINF:0 tvg-id="TringComedy.al" group-title="Channels",AL: Tring Comedy
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3401
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="Channels",AL: TRING FANTASY
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2126
+#EXTINF:0 tvg-id="T-Hist.al" group-title="Channels",AL: Tring History
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19505
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Tring Kids
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19504
+#EXTINF:0 tvg-id="TringComedy.al" group-title="Channels",AL: TRING KOMEDI
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2124
+#EXTINF:0 tvg-id="TringLife.al" group-title="Channels",AL: Tring Life
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3400
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="Channels",AL: Tring Planet
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3398
+#EXTINF:0 tvg-id="TS1HD.al" group-title="Channels",AL: TRING SPORT 1 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3396
+#EXTINF:0 tvg-id="TS2HD.al" group-title="Channels",AL: Tring Sport 2 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3368
+#EXTINF:0 tvg-id="TS3HD.al" group-title="Channels",AL: Tring Sport 3 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3367
+#EXTINF:0 tvg-id="TS4HD.al" group-title="Channels",AL: TRING SPORT 4 HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3395
+#EXTINF:0 tvg-id="TringTring.al" group-title="Channels",AL: TRING TRING
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/2122
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TURBO CHANNEL
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19482
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV 2 Gostivar
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19474
+#EXTINF:0 tvg-id="TVDukagjini.al" group-title="Channels",AL: TV Dukagjini
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/28980
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV ERA
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/16182
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Festa
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/17154
+#EXTINF:0 tvg-id="KlanTV.al" group-title="Channels",AL: TV KLAN HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/31463
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Mitrovica
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19451
+#EXTINF:0 tvg-id="opoja.tv" group-title="Channels",AL: TV Opoja
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19481
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV SHARRI HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19477
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Shenja
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/16016
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Syri Vision
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19339
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Tetova
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/16020
+#EXTINF:0 tvg-id="TVSH.al" group-title="Channels",AL: TVSH
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/7444
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Vision Plus TV
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/16018
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="Channels",AL: Vizion Plus HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3423
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="Channels",AL: Vizion Plus Toksor
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3424
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: WesterN
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3411
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ZICO TV
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/19335
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Zjarr TV
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3461
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Sky AL Max
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3436
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Sky Histori
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3438
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL:Sky Komedi
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3439
